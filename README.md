@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Michael Palmer  
 
 Welcome to my GitHub! I’m a data-driven technical professional with a foundation in **electronic engineering, data analytics, and automation systems**.  
-I’m recently completed the **IBM Data Science Professional Certificate**, building Python-based analytics pipelines and exploring how data operations, automation, and AI can power the clean energy transition.
+I recently completed the **IBM Data Science Professional Certificate**, building Python-based analytics pipelines and exploring how data operations, automation, and AI can power the clean energy transition.
 
 ---
 
